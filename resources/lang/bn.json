@@ -1,0 +1,25 @@
+{
+    "dashboard":"ড্যাশবোর্ড",
+    "logout":"প্রস্থান",
+    "profile":"প্রোফাইল",
+    "company":"কোম্পানি",
+    "employee":"কর্মচারী",
+    "addemployee":"কর্মচারী যোগ করুন",
+    "employeeForm":"কর্মচারী ফর্ম",
+    "emailAddress":"ইমেইল ঠিকানা",
+    "firstname":"নামের প্রথম অংশ",
+    "lastname":"নামের শেষাংশ",
+    "employeeName":"নাম",
+    "phone":"ফোন নম্বর",
+    "selectCompany": "কোম্পানি নির্বাচন করুন",
+    "addCompany": "কোম্পানি যোগ করুন",
+    "companyForm":"কোম্পানি এন্ট্রি ফর্ম",
+    "create" : "তৈরি করুন ",
+    "companyName": "কোম্পানীর নাম",
+    "companyLogo": "কোম্পানির লোগো",
+    "companyEmail":"কোম্পানির ইমেল",
+    "dimension":"ন্যূনতম মাত্রা:১০০*১০০",
+    "action":"একশন",
+    "sl":"সিরিয়াল"
+
+}
